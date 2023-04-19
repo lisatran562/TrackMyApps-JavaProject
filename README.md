@@ -1,6 +1,6 @@
 # Coding Dojo - JAVA stack project - TrackMyApps
 
-Seeing is as how this Java stack is the last stack before I graduate this bootcamp, I wanted to create an app that I and my cohort mates can use when we start applying for jobs.
+Seeing as how this Java stack is the last stack before I graduate this bootcamp, I wanted to create an app that I and my cohort mates can use when we start applying for jobs.
 I created this app to keep track of all our job applications we will eventually apply for instead of having to make a speadsheet.  
 
 ### Login and Registration index page
